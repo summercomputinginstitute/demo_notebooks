@@ -7,9 +7,11 @@ In this course we will be using GitHub for the distribution and collection of as
 - Install git on your laptop and authenticate with GitHub from git - follow the [instructions](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
 - Get familiar with using git and GitHub: walk through the [tutorial](https://opensource.com/article/18/1/step-step-guide-git)
 
-The assignments for this course are in the form of [jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/).  To work on them, let's first get your work environment set up for data science programming.  To do so, you will need Python and several other libraries installed.  You have two options for setting up a work environment: 
+The assignments and demo code for this course are in the form of [jupyter notebooks](https://jupyter-notebook.readthedocs.io/en/stable/).  To work on them, let's first get your work environment set up for data science programming.  To do so, you will need Python and several other libraries installed.  You have two options for setting up a work environment: 
 1) Work locally on your laptop, or  
 2) Use Google Colab to work in the cloud (free).
+
+The demo notebooks for this course can be accessed from the course's [GitHub repository](https://github.com/summercomputinginstitute/demo_notebooks).
 
 # Option 1: Work locally on your laptop
 
@@ -45,7 +47,8 @@ If you would like to work using Colab, start by watching the [introductory video
 - [Installing libraries not in Colab](https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb)  
 - [Using Colab with GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
-## Clone the course demos repo to your Colab
+## Access the demo_notebooks repository in Colab
+
 
 
 ## Open a notebook in Colab and begin work!
