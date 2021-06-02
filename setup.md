@@ -11,6 +11,8 @@ The assignments and demo code for this course are in the form of [jupyter notebo
 1) Work locally on your laptop, or  
 2) Use Google Colab to work in the cloud (free).
 
+Follow the instructions below for either path to get set up for work.  Whether to work locally or work in the cloud is a matter of personal preference.  I personally like to work locally when I can, although if the setup instructions below appear complicated you may find it easier to work on Colab.
+
 The demo notebooks for this course can be accessed from the course's [GitHub repository](https://github.com/summercomputinginstitute/demo_notebooks).
 
 # Option 1: Work locally on your laptop
@@ -30,7 +32,10 @@ Install the needed packages for this course (these may already be installed with
 - BeautifulSoup: `conda install -c anaconda beautifulsoup4`
 
 ## Clone the course demos repo to your computer
-The demo notebooks for this course are saved in a GitHub directory.  To download them to your computer, first use the command line to navigate to the directory where you would like to store them.  Then, clone them from GitHub 
+The demo notebooks for this course are saved in a [GitHub directory](https://github.com/summercomputinginstitute/demo_notebooks).  To download them to your computer, you can clone them from GitHub by doing the following:  
+- Use the command line to navigate to the folder on your computer where you would like to store them
+- Run the following to clone the *demo_notebooks* repository to your computer: `git clone https://github.com/summercomputinginstitute/demo_notebooks.git`
+
 
 ## Launch Jupyter Notebooks and start work!  
 - At the command line, type `jupyter notebook`
@@ -48,7 +53,7 @@ If you would like to work using Colab, start by watching the [introductory video
 - [Using Colab with GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 
 ## Access the demo_notebooks repository in Colab
-
+From Colab, select `File -> Open notebook`.  Click on the "GitHub" tab and enter "summercomputinginstitute" in the search box.  You should find the *demo_notebooks* respository and you can then select a notebook file to open.
 
 
 ## Open a notebook in Colab and begin work!
